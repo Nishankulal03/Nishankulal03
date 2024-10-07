@@ -36,9 +36,9 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishankulal03&show_icons=true&locale=en&layout=compact" alt="nishankulal03" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishankulal03&show_icons=true&locale=en" alt="nishankulal03" /></p>
 <h2>GitHub Stats</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishankulal03&show_icons=true&locale=en" alt="nishankulal03" /></p><br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishankulal03&" alt="nishankulal03" /></p>
 <h2>GitHub Trophies</h2>
 <p align="center">

@@ -34,9 +34,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
 
 </p>
-
+<h2>GitHub Stats</h2></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishankulal03&show_icons=true&locale=en&layout=compact" alt="nishankulal03" /></p>
-<h2>GitHub Stats</h2>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishankulal03&show_icons=true&locale=en" alt="nishankulal03" /></p><br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishankulal03&" alt="nishankulal03" /></p>

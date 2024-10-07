@@ -43,7 +43,7 @@
 <h2>GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishankulal03&theme=gruvbox" alt="nishankulal03 GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nishankulal03&theme=dracula" alt="nishankulal03 GitHub Trophies" />
   </a>
 </p>
 

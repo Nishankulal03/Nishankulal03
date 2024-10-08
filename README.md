@@ -46,11 +46,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nishankulal03&theme=dracula" alt="nishankulal03 GitHub Trophies" />
   </a>
 </p>
-## 🏆 Badges
 
-<p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1tgmfl610390clbp8y9409z" target="_blank">
-    <img src="https://holopin.me/cm1tgmfl610390clbp8y9409z" alt="Hacktoberfest 2024 Badge" width="200"/>
-  </a>
-</p>
 
